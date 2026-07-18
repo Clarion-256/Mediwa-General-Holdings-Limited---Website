@@ -1,0 +1,648 @@
+# Prompt: Transform Mediwa General Holdings Website into a World-Class Corporate Construction Website
+
+You are an award-winning UI/UX designer, brand strategist, copywriter, frontend engineer, and SEO specialist. Your task is to redesign and improve the existing Mediwa General Holdings website without changing its premium visual identity. Preserve the clean architectural aesthetic, but elevate it into a modern, world-class corporate website comparable to leading construction and engineering companies.
+
+## Company Information
+
+**Company Name:** Mediwa General Holdings
+
+**Location:**
+Obiya Highland Trading Centre
+Pece-Laroo Division
+Gulu City, Northern Uganda
+
+**Phone:**
++256 785 191280
+
+**Email:**
+[info.mediwagholdings@gmail.com](mailto:info.mediwagholdings@gmail.com)
+
+**Business Areas**
+
+* Concrete Products Manufacturing
+* Steel Fabrication & Welding
+* General Construction
+* Commercial Construction
+* Residential Construction
+* Institutional Construction
+* Supply of Building Materials
+
+---
+
+## Overall Objective
+
+Transform the website from a company introduction into a powerful marketing, sales, and credibility platform that generates enquiries, project quotations, NGO partnerships, government contracts, and commercial opportunities.
+
+The website should communicate professionalism, trust, quality, innovation, reliability, and long-term growth.
+
+The final result should feel like the website of a company capable of handling multimillion-shilling construction projects.
+
+---
+
+# Design Requirements
+
+Maintain the existing premium architectural theme while improving:
+
+* spacing
+* typography
+* hierarchy
+* animations
+* responsiveness
+* accessibility
+* page speed
+* usability
+* SEO
+
+Use elegant scroll animations.
+
+Use subtle micro-interactions.
+
+Improve mobile responsiveness.
+
+Improve tablet responsiveness.
+
+Use professional hover effects.
+
+Maintain excellent loading speed.
+
+Use modern card layouts.
+
+Improve visual balance.
+
+Use a professional construction colour palette inspired by:
+
+* Concrete
+* Steel
+* Earth
+* Stone
+* Copper
+* Forest Green
+* White
+
+---
+
+# Hero Section
+
+Create a stronger hero section.
+
+Include:
+
+Powerful headline
+
+Professional subheading
+
+Two call-to-action buttons
+
+* Request a Quote
+* Contact Us
+
+Include a professional construction image or illustration.
+
+Display trust indicators such as:
+
+✓ Quality Construction
+
+✓ In-house Manufacturing
+
+✓ Reliable Delivery
+
+✓ Northern Uganda Based
+
+---
+
+# Navigation
+
+Improve navigation to:
+
+* Home
+* About
+* Products
+* Construction
+* Projects
+* Gallery
+* Why Choose Us
+* Contact
+
+Sticky navigation.
+
+Smooth scrolling.
+
+Mobile navigation.
+
+---
+
+# About Section
+
+Expand the company story.
+
+Explain:
+
+* history
+* mission
+* vision
+* values
+* competitive advantage
+* commitment to quality
+* commitment to Northern Uganda
+
+Include professional icons.
+
+---
+
+# Products Section
+
+Create a modern catalogue.
+
+Concrete Products
+
+Display cards for:
+
+* Concrete Poles
+* Hollow Blocks
+* Concrete Slabs
+* Pavers
+* Kerbstones
+* Vent Blocks
+* Toilet Vents
+* Concrete Mark Stones
+
+Each product should include:
+
+* image
+* description
+* applications
+* available sizes
+* Request Quote button
+
+---
+
+# Steel Fabrication
+
+Display products:
+
+* Gates
+* Doors
+* Windows
+* Structural Steel
+* Roofing Structures
+* Balustrades
+* Security Fabrication
+* Custom Metal Fabrication
+
+Each should have:
+
+image
+
+description
+
+quote button
+
+---
+
+# Construction Services
+
+Highlight services:
+
+Commercial Construction
+
+Residential Construction
+
+Institutional Buildings
+
+Schools
+
+Hospitals
+
+NGO Facilities
+
+Renovations
+
+Project Management
+
+Civil Works
+
+Turnkey Construction
+
+---
+
+# Why Choose Us
+
+Create a premium feature section.
+
+Reasons include:
+
+✓ In-house concrete manufacturing
+
+✓ In-house steel fabrication
+
+✓ Experienced workforce
+
+✓ Competitive pricing
+
+✓ Quality materials
+
+✓ Timely delivery
+
+✓ Professional project management
+
+✓ Local knowledge
+
+✓ Customer satisfaction
+
+✓ Trusted regional supplier
+
+---
+
+# Projects Portfolio
+
+Create an impressive portfolio section.
+
+Include project cards.
+
+Each project should contain:
+
+Large image
+
+Project title
+
+Location
+
+Description
+
+Completion year
+
+Project type
+
+Status
+
+---
+
+# Gallery
+
+Create a beautiful masonry gallery.
+
+Include categories:
+
+Factory
+
+Concrete Products
+
+Steel Fabrication
+
+Construction
+
+Completed Buildings
+
+Workers
+
+Equipment
+
+Clients
+
+Allow image filtering.
+
+Lightbox viewing.
+
+---
+
+# Statistics Section
+
+Display animated counters.
+
+Example:
+
+10+
+
+Employees
+
+15+
+
+Product Categories
+
+100+
+
+Projects Completed
+
+1000+
+
+Products Delivered
+
+Northern Uganda
+
+Coverage
+
+100%
+
+Customer Focus
+
+---
+
+# Testimonials
+
+Create testimonial cards.
+
+Include:
+
+Client photo
+
+Client name
+
+Company
+
+Quote
+
+Rating
+
+---
+
+# Industries Served
+
+Show professional icons.
+
+Serve:
+
+Homeowners
+
+Businesses
+
+Government
+
+NGOs
+
+Churches
+
+Schools
+
+Hospitals
+
+Contractors
+
+Developers
+
+Manufacturers
+
+---
+
+# Company Timeline
+
+Interactive timeline showing:
+
+Company Founded
+
+Manufacturing Expansion
+
+Steel Fabrication
+
+Construction Division
+
+Regional Expansion
+
+Future Growth
+
+---
+
+# Partners Section
+
+Display logos of:
+
+Government
+
+NGOs
+
+Developers
+
+Contractors
+
+Corporate Clients
+
+Suppliers
+
+If logos are unavailable, use professional placeholders.
+
+---
+
+# Contact Section
+
+Replace placeholder information with:
+
+Phone
+
++256 785 191280
+
+Email
+
+[info.mediwagholdings@gmail.com](mailto:info.mediwagholdings@gmail.com)
+
+Location
+
+Obiya Highland Trading Centre
+
+Pece-Laroo Division
+
+Gulu City
+
+Northern Uganda
+
+Business Hours
+
+Monday–Saturday
+
+8:00 AM–6:00 PM
+
+---
+
+# Contact Form
+
+Professional quotation request form.
+
+Fields:
+
+Name
+
+Company
+
+Phone
+
+Email
+
+Project Location
+
+Service Required
+
+Estimated Budget
+
+Preferred Start Date
+
+Message
+
+Submit button:
+
+Request Free Quote
+
+---
+
+# WhatsApp Integration
+
+Create a floating WhatsApp button.
+
+Link:
+
+https://wa.me/256785191280
+
+Include:
+
+"Chat with us"
+
+---
+
+# Google Maps
+
+Embed company location.
+
+---
+
+# Footer
+
+Professional corporate footer.
+
+Include:
+
+Quick Links
+
+Products
+
+Construction Services
+
+Contact Information
+
+Email
+
+Phone
+
+Location
+
+Social Media
+
+Facebook
+
+LinkedIn
+
+Instagram
+
+WhatsApp
+
+TikTok
+
+Newsletter Subscription
+
+Copyright
+
+Privacy Policy
+
+Terms of Service
+
+---
+
+# SEO Improvements
+
+Generate:
+
+Professional title
+
+Meta description
+
+Open Graph tags
+
+Twitter Cards
+
+Schema.org structured data
+
+Local Business schema
+
+Construction Company schema
+
+Google-friendly headings
+
+Proper alt text
+
+Fast loading
+
+Accessibility improvements
+
+---
+
+# Performance Improvements
+
+Optimize:
+
+Images
+
+CSS
+
+JavaScript
+
+Lazy loading
+
+Responsive images
+
+Accessibility
+
+Core Web Vitals
+
+---
+
+# Conversion Optimization
+
+Every major section should include a clear call-to-action.
+
+Buttons:
+
+Request Quote
+
+Call Now
+
+WhatsApp
+
+Send Email
+
+Download Company Profile
+
+---
+
+# Additional Features
+
+Add:
+
+Project enquiry modal
+
+Scroll-to-top button
+
+Loading animation
+
+Image lazy loading
+
+Modern animations
+
+Professional icons
+
+Interactive statistics
+
+Animated counters
+
+Professional hover effects
+
+Gallery filtering
+
+Project search
+
+Service search
+
+Download Company Profile button
+
+---
+
+# Final Goal
+
+The finished website should look like the official website of a leading East African construction and engineering company, capable of attracting NGOs, government institutions, corporate clients, developers, investors, and homeowners.
+
+It should inspire confidence, clearly communicate Mediwa General Holdings' expertise, showcase its products and services professionally, generate enquiries, and position the company as one of the most trusted construction and manufacturing firms in Northern Uganda.
